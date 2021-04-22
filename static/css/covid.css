@@ -1,59 +1,95 @@
 
 .event1-1 {
     background: url(/static/images/covid/independence/cover.jpeg) no-repeat center center/cover;
+        background-size: 100% 100%;
+
 }
 .event1-2 {
     background: url(/static/images/covid/independence/1.jpeg) no-repeat center center/cover;
+        background-size: 100% 100%;
+
 }
 .event1-3 {
     background: url(/static/images/covid/independence/2.jpeg) no-repeat center center/cover;
+        background-size: 100% 100%;
+
 }
 .event1-4 {
     background: url(/static/images/covid/independence/3.jpeg) no-repeat center center/cover;
+        background-size: 100% 100%;
+
 }
 .event1-5 {
     background: url(/static/images/covid/independence/4.jpeg) no-repeat center center/cover;
+        background-size: 100% 100%;
+
 }
 .event1-6 {
     background: url(/static/images/covid/independence/5.jpg) no-repeat center center/cover;
+        background-size: 100% 100%;
+
 }
 .event1-7 {
     background: url(/static/images/covid/independence/6.jpeg) no-repeat center center/cover;
+        background-size: 100% 100%;
+
 }
 .event1-8 {
     background: url(/static/images/covid/independence/7.jpeg) no-repeat center center/cover;
+        background-size: 100% 100%;
+
 }
 .event1-9 {
     background: url(/static/images/covid/independence/8.jpeg) no-repeat center center/cover;
+        background-size: 100% 100%;
+
 }
 
 
 .event2-1 {
     background: url(/static/images/covid/chocolate/cover.jpeg) no-repeat center center/cover;
+        background-size: 100% 100%;
+
 }
 .event2-2 {
     background: url(/static/images/covid/chocolate/1.jpeg) no-repeat center center/cover;
+        background-size: 100% 100%;
+
 }
 .event2-3 {
     background: url(/static/images/covid/chocolate/2.jpeg) no-repeat center center/cover;
+        background-size: 100% 100%;
+
 }
 .event2-4 {
     background: url(/static/images/covid/chocolate/3.jpeg) no-repeat center center/cover;
+        background-size: 100% 100%;
+
 }
 .event2-5 {
     background: url(/static/images/covid/chocolate/4.jpeg) no-repeat center center/cover;
+        background-size: 100% 100%;
+
 }
 .event2-6 {
     background: url(/static/images/covid/chocolate/5.jpeg) no-repeat center center/cover;
+        background-size: 100% 100%;
+
 }
 .event2-7 {
     background: url(/static/images/covid/chocolate/6.jpeg) no-repeat center center/cover;
+        background-size: 100% 100%;
+
 }
 .event2-8 {
     background: url(/static/images/covid/chocolate/7.jpeg) no-repeat center center/cover;
+        background-size: 100% 100%;
+
 }
 .event2-9 {
     background: url(/static/images/covid/chocolate/8.jpeg) no-repeat center center/cover;
+        background-size: 100% 100%;
+
 }
 
 
@@ -181,7 +217,7 @@
 .event7-5 {
     background: url(/static/images/covid/blanket_jam/5.jpeg) no-repeat center center/cover;
 }
-.event7-6 {
+.event7-6 { 
     background: url(/static/images/covid/blanket_jam/6.jpeg) no-repeat center center/cover;
 }
 .event7-7 {
@@ -220,4 +256,282 @@
 }
 .event8-9 {
     background: url(/static/images/covid/chips_pune/9.jpeg) no-repeat center center/cover;
+}
+
+
+.event9-1 {
+    background: url(/static/images/covid/annual_blank/1.jpeg) no-repeat center center/cover;
+    background-size: 100% 100%;
+
+}
+.event9-2 {
+    background: url(/static/images/covid/annual_blank/2.jpeg) no-repeat center center/cover;
+}
+.event9-3 {
+    background: url(/static/images/covid/annual_blank/3.jpeg) no-repeat center center/cover;
+}
+.event9-4 {
+    background: url(/static/images/covid/annual_blank/4.jpeg) no-repeat center center/cover;
+}
+.event9-5 {
+    background: url(/static/images/covid/annual_blank/5.jpeg) no-repeat center center/cover;
+}
+.event9-6 {
+    background: url(/static/images/covid/annual_blank/6.jpeg) no-repeat center center/cover;
+    background-size: 100% 100%;
+
+}
+.event9-7 {
+    background: url(/static/images/covid/annual_blank/7.jpeg) no-repeat center center/cover;
+    background-size: 100% 100%;
+
+}
+.event9-8 {
+    background: url(/static/images/covid/annual_blank/8.jpeg) no-repeat center center/cover;
+    background-size: 100% 100%;
+
+}
+
+.event10-1 {
+    background: url(/static/images/covid/transgender/1.jpeg) no-repeat center center/cover;
+}
+.event10-2 {
+    background: url(/static/images/covid/transgender/2.jpeg) no-repeat center center/cover;
+}
+.event10-3 {
+    background: url(/static/images/covid/transgender/3.jpeg) no-repeat center center/cover;
+}
+.event10-4 {
+    background: url(/static/images/covid/transgender/4.jpeg) no-repeat center center/cover;
+}
+.event10-5 {
+    background: url(/static/images/covid/transgender/5.jpeg) no-repeat center center/cover;
+}
+.event10-6 {
+    background: url(/static/images/covid/transgender/6.jpeg) no-repeat center center/cover;
+}
+.event10-7 {
+    background: url(/static/images/covid/transgender/7.jpeg) no-repeat center center/cover;
+    background-size: 100% 100%;
+
+}
+.event10-8 {
+    background: url(/static/images/covid/transgender/8.jpeg) no-repeat center center/cover;
+}
+.event10-9 {
+    background: url(/static/images/covid/transgender/9.jpeg) no-repeat center center/cover;
+}
+
+
+.event11-1 {
+    background: url(/static/images/covid/christmas/1.jpeg) no-repeat center center/cover;
+}
+.event11-2 {
+    background: url(/static/images/covid/christmas/2.jpeg) no-repeat center center/cover;
+}
+.event11-3 {
+    background: url(/static/images/covid/christmas/3.jpeg) no-repeat center center/cover;
+    background-size: 100% 100%;
+
+}
+.event11-4 {
+    background: url(/static/images/covid/christmas/4.jpeg) no-repeat center center/cover;
+}
+.event11-5 {
+    background: url(/static/images/covid/christmas/5.jpeg) no-repeat center center/cover;
+}
+.event11-6 {
+    background: url(/static/images/covid/christmas/6.jpeg) no-repeat center center/cover;
+}
+.event11-7 {
+    background: url(/static/images/covid/christmas/7.jpeg) no-repeat center center/cover;
+    background-size: 100% 100%;
+}
+.event11-8 {
+    background: url(/static/images/covid/christmas/8.jpeg) no-repeat center center/cover;
+}
+.event11-9 {
+    background: url(/static/images/covid/christmas/9.jpeg) no-repeat center center/cover;
+}
+
+
+.event12-1 {
+    background: url(/static/images/covid/galaxychoco/1.jpeg) no-repeat center center/cover;
+}
+.event12-2 {
+    background: url(/static/images/covid/galaxychoco/2.jpeg) no-repeat center center/cover;
+    background-size: 100% 100%;
+}
+.event12-3 {
+    background: url(/static/images/covid/galaxychoco/3.jpeg) no-repeat center center/cover;
+}
+.event12-4 {
+    background: url(/static/images/covid/galaxychoco/4.jpeg) no-repeat center center/cover;
+}
+.event12-5 {
+    background: url(/static/images/covid/galaxychoco/5.jpeg) no-repeat center center/cover;
+}
+.event12-6 {
+    background: url(/static/images/covid/galaxychoco/6.jpeg) no-repeat center center/cover;
+    background-size: 100% 100%;
+}
+.event12-7 {
+    background: url(/static/images/covid/galaxychoco/7.jpeg) no-repeat center center/cover;
+    background-size: 100% 100%;
+}
+.event12-8 {
+    background: url(/static/images/covid/galaxychoco/8.jpeg) no-repeat center;
+    background-size: 100% 100%;
+}
+.event12-9 {
+    background: url(/static/images/covid/galaxychoco/9.jpeg) no-repeat center;
+    background-size: 100% 100%;
+}
+
+.event13-1 {
+    background: url(/static/images/covid/sanitaryjan/1.jpeg) no-repeat center center;
+    background-size: 100% 100%;
+}
+.event13-2 {
+    background: url(/static/images/covid/sanitaryjan/2.jpeg) no-repeat center center;
+    background-size: 100% 100%;
+    background-size: 100% 100%;
+}
+.event13-3 {
+    background: url(/static/images/covid/sanitaryjan/3.jpeg) no-repeat center center;
+    background-size: 100% 100%;
+}
+.event13-4 {
+    background: url(/static/images/covid/sanitaryjan/4.jpeg) no-repeat center center;
+    background-size: 100% 100%;
+}
+.event13-5 {
+    background: url(/static/images/covid/sanitaryjan/5.jpeg) no-repeat center center;
+    background-size: 100% 100%;
+}
+.event13-6 {
+    background: url(/static/images/covid/sanitaryjan/6.jpeg) no-repeat center center;
+    background-size: 100% 100%;
+}
+.event13-7 {
+    background: url(/static/images/covid/sanitaryjan/7.jpeg) no-repeat center center;
+    background-size: 100% 100%;
+}
+.event13-8 {
+    background: url(/static/images/covid/sanitaryjan/8.jpeg) no-repeat center;
+    background-size: 100% 100%;
+}
+
+
+.event14-1 {
+    background: url(/static/images/covid/clothesdonation_feb/1.jpeg) no-repeat center center;
+    background-size: 100% 100%;
+}
+.event14-2 {
+    background: url(/static/images/covid/clothesdonation_feb/2.jpeg) no-repeat center center;
+    background-size: 100% 100%;
+    background-size: 100% 100%;
+}
+.event14-3 {
+    background: url(/static/images/covid/clothesdonation_feb/3.jpeg) no-repeat center center;
+    background-size: 100% 100%;
+}
+.event14-4 {
+    background: url(/static/images/covid/clothesdonation_feb/4.jpeg) no-repeat center center;
+    background-size: 100% 100%;
+}
+.event14-5 {
+    background: url(/static/images/covid/clothesdonation_feb/5.jpeg) no-repeat center center;
+    background-size: 100% 100%;
+}
+.event14-6 {
+    background: url(/static/images/covid/clothesdonation_feb/6.jpeg) no-repeat center center;
+    background-size: 100% 100%;
+}
+.event14-7 {
+    background: url(/static/images/covid/clothesdonation_feb/7.jpeg) no-repeat center center;
+    background-size: 100% 100%;
+}
+.event14-8 {
+    background: url(/static/images/covid/clothesdonation_feb/8.jpeg) no-repeat center;
+    background-size: 100% 100%;
+}
+
+.event15-1 {
+    background: url(/static/images/covid/sanitaryfebpune/1.jpeg) no-repeat center center;
+    background-size: 100% 100%;
+}
+.event15-2 {
+    background: url(/static/images/covid/sanitaryfebpune/2.jpeg) no-repeat center center;
+    background-size: 100% 100%;
+    background-size: 100% 100%;
+}
+.event15-3 {
+    background: url(/static/images/covid/sanitaryfebpune/3.jpeg) no-repeat center center;
+    background-size: 100% 100%;
+}
+.event15-4 {
+    background: url(/static/images/covid/sanitaryfebpune/4.jpeg) no-repeat center center;
+    background-size: 100% 100%;
+}
+.event15-5 {
+    background: url(/static/images/covid/sanitaryfebpune/5.jpeg) no-repeat center center;
+    background-size: 100% 100%;
+}
+.event15-6 {
+    background: url(/static/images/covid/sanitaryfebpune/6.jpeg) no-repeat center center;
+    background-size: 100% 100%;
+}
+.event15-7 {
+    background: url(/static/images/covid/sanitaryfebpune/7.jpeg) no-repeat center center;
+    background-size: 100% 100%;
+}
+.event15-8 {
+    background: url(/static/images/covid/sanitaryfebpune/8.jpeg) no-repeat center;
+    background-size: 100% 100%;
+}
+.event15-9 {
+    background: url(/static/images/covid/sanitaryfebpune/9.jpeg) no-repeat center;
+    background-size: 100% 100%;
+}
+
+.event16-1 {
+    background: url(/static/images/covid/clothes_jammu_pune/1.jpeg) no-repeat center center/cover;
+    background-size: 90% 100%;
+}
+.event16-2 {
+    background: url(/static/images/covid/clothes_jammu_pune/2.jpeg) no-repeat center center/cover;
+}
+.event16-3 {
+    background: url(/static/images/covid/clothes_jammu_pune/3.jpeg) no-repeat center center/cover;
+    background-size: 90% 100%;
+}
+.event16-4 {
+    background: url(/static/images/covid/clothes_jammu_pune/4.jpeg) no-repeat center center/cover;
+}
+.event16-5 {
+    background: url(/static/images/covid/clothes_jammu_pune/5.jpeg) no-repeat center center/cover;
+    background-size: 90% 100%;
+}
+.event16-6 {
+    background: url(/static/images/covid/clothes_jammu_pune/6.jpeg) no-repeat center center/cover;
+}
+.event16-7 {
+    background: url(/static/images/covid/clothes_jammu_pune/7.jpeg) no-repeat center center/cover;
+}
+.event16-8 {
+    background: url(/static/images/covid/clothes_jammu_pune/8.jpeg) no-repeat center/cover;
+}
+
+
+.event17-1 {
+    background: url(/static/images/covid/masks_UP/1.jpeg) no-repeat center center/cover;
+    background-size: 88% 190%;
+}
+.event17-2 {
+    background: url(/static/images/covid/masks_UP/2.jpeg) no-repeat center center/cover;
+}
+.event17-3 {
+    background: url(/static/images/covid/masks_UP/3.jpeg) no-repeat center center/cover;
+    background-size: 88% 190%;
 }

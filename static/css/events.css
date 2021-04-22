@@ -30,7 +30,6 @@
     border: 2px solid black;
     border-radius: 2px;
   }
-
   /* cell number */
   .carousel-cell:before {
     display: block;
@@ -40,3 +39,8 @@
     color: white;
   }
 
+@media only screen and (max-width:750px) {
+  .carousel-cell{
+    height: 80px;
+  }
+}
