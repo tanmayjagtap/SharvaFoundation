@@ -110,6 +110,15 @@ app.get('/projectgreen', (req, res) => {
 })
 
 
+//############## Awareness ###############################
+
+app.get('/awareness', (req, res) => {
+
+    const params = {}
+    res.status(200).render('awareness.pug', params);
+})
+
+
 
 
 //################# for volunteers form #####################

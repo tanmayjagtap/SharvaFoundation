@@ -45,6 +45,7 @@ let events=document.getElementById('events');
 let joinus=document.getElementById('joinus'); 
 let aboutus=document.getElementById('aboutus'); 
 let contactus=document.getElementById('contactus');  
+let awareness=document.getElementById('awareness');  
 
 onload=function activateHome(){
 

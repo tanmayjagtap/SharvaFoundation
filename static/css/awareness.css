@@ -1,0 +1,78 @@
+.conatiner{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    align-items: center;
+}
+.awareness-content-subheader{
+    margin-bottom: 40px;
+}
+.awareness-content-header{
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 20px;
+}
+.awareness-content h3{
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.left img{
+    height: 360px;
+    width: 360px;
+    border-radius: 14px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.left{
+    margin-right: 40px;
+    width: 30%;
+}
+
+.right{
+    margin-left: 40px;
+    width: 40%;
+}
+.right p,h4 {
+    padding: 0;
+}
+
+.register-btn{
+    background-color: #e88f0a;
+    padding: 6px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-weight: 500;
+    color:black ;
+    margin-top: 20px;
+}
+
+.descpription{
+    margin-bottom: 20px;
+    margin-top: 15px;
+}
+
+@media only screen and (max-width: 1024px){
+    .conatiner{
+        flex-direction: column;
+    }
+}
+@media only screen and (max-width: 425px){
+    .right, .left{
+        width: 100%;
+    }
+    .right{
+        margin-left: 0 ;
+    }
+    .left{
+        margin-right: 0 ;
+    }
+    .conatiner{
+        margin-left: 10px;
+    }
+}
